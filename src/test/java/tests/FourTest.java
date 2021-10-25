@@ -12,6 +12,8 @@ public	WebDriver driver;
 	@Test
 	public void fourTest() throws IOException, InterruptedException
 	{
+		
+		System.out.println("Sai has updated code right now");
 		System.out.println("inside test four");
 	 driver = intializeDriver();
 		driver.get("http://tutorialsninja.com/demo/");
