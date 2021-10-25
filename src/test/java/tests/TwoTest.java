@@ -17,6 +17,7 @@ public class TwoTest extends base{
 	{
 		
 		System.out.println("SaiPattbhi back to form");
+		System.out.print("Understanding clear view");
 		System.out.println("inside two test");
 		
 	 driver = intializeDriver();
