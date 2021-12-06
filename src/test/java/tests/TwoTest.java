@@ -15,11 +15,16 @@ public class TwoTest extends base{
 	@Test
 	public void twoTest() throws IOException, InterruptedException
 	{
+<<<<<<< HEAD
 		
 		System.out.println("Monday is fine day");
 		
 		System.out.println("Monday blooms");
+=======
+		System.out.println("switched to k branch");
+>>>>>>> kbranch
 		System.out.println("SaiPattbhi back to form");
+		System.out.print("Understanding clear view");
 		System.out.println("inside two test");
 		
 	 driver = intializeDriver();
