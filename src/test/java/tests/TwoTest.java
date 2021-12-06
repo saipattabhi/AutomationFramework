@@ -16,6 +16,8 @@ public class TwoTest extends base{
 	public void twoTest() throws IOException, InterruptedException
 	{
 		
+		System.out.println("Monday is fine day");
+		
 		System.out.println("Monday blooms");
 		System.out.println("SaiPattbhi back to form");
 		System.out.println("inside two test");
