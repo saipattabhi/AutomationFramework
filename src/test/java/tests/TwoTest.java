@@ -16,10 +16,12 @@ public class TwoTest extends base{
 	public void twoTest() throws IOException, InterruptedException
 	{
 <<<<<<< HEAD
+<<<<<<< HEAD
 		
-		System.out.println("Monday is fine day");
-		
-		System.out.println("Monday blooms");
+	
+=======
+		System.out.println("switched to k branch");
+>>>>>>> kbranch
 =======
 		System.out.println("switched to k branch");
 >>>>>>> kbranch
