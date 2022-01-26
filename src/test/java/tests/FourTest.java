@@ -19,6 +19,9 @@ public	WebDriver driver;
 		driver.get("http://tutorialsninja.com/demo/");
 		Thread.sleep(2000);
 		driver.close();
+		
+		System.out.println("Today is republic day");
+		System.out.println("Today is wedesday");
 	}
 
 }
